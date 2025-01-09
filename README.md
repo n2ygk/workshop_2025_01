@@ -8,6 +8,10 @@ lesson.
 
 The lesson content is made available under the [CC BY 4.0 license](https://swcarpentry.github.io/python-novice-gapminder/LICENSE.html)
 
+The live examples from the class are named `Lesson_xx` or `lesson_xx`. I also include some notebooks created while preparing for
+the lesson with names like `xx_looping` and so on.
+
+
 
 
 
