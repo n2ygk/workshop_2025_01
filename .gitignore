@@ -1,0 +1,11 @@
+.DS_Store
+.backup/
+.hide/
+.ipynb_checkpoints/
+.localized
+.old/
+.python/
+data/
+shell-lesson-data/
+*.zip
+*~
